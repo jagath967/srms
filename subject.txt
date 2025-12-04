@@ -1,0 +1,4 @@
+SubjectCode SubjectName Credits
+MATH101 Maths 4
+DSA201 DSA 3
+OS301 OS 3
